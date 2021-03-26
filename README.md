@@ -10,12 +10,12 @@ Create folder for any different language or different site you wish to contribut
 
 # Completed Solutions 
 <h3> HACKERRANK </h3>
-<a href="https://github.com/Pranit5895/COMPETITIVE-CODING/tree/master/Hackerrank/10-days-of-JS"> 10 DAYS OF JAVASCRIPT </a> <br>
-<a href="https://github.com/Pranit5895/COMPETITIVE-CODING/tree/master/Hackerrank/C"> C </a> <br>
+<a href="https://github.com/Pranit5895/COMPETITIVE-CODING/tree/master/Hackerrank/10-days-of-JS" target="_blank"> 10 DAYS OF JAVASCRIPT </a> <br>
+<a href="https://github.com/Pranit5895/COMPETITIVE-CODING/tree/master/Hackerrank/C" target="_blank"> C </a> <br>
 
 
 
 
 <h4> PROBLEM SOLVING </h4>
-<a href="https://github.com/Pranit5895/COMPETITIVE-CODING/tree/master/Hackerrank/Problem-Solving/Arrays"> ARRAYS </a>
+<a href="https://github.com/Pranit5895/COMPETITIVE-CODING/tree/master/Hackerrank/Problem-Solving/Arrays" target="_blank"> ARRAYS </a>
 
